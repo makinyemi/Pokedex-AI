@@ -1,0 +1,31 @@
+The Special Attack stat, or Sp. Atk for short, partly determines how much damage a Pokémon deals when using a special move.
+
+The Special Defense stat, or Sp. Def for short, partly determines how much damage a Pokémon receives when it is hit with a special move.
+
+The Speed stat determines the order of Pokémon that can act in battle. If Pokémon are moving with the same priority, Pokémon with higher Speed at the start of any turn will generally make a move before ones with lower Speed; in the case that two Pokémon have the same Speed, one of them will randomly go first.
+
+The Attack stat partly determines how much damage a Pokémon deals when using a physical move.
+
+The Defense stat partly determines how much damage a Pokémon receives when it is hit with a physical move. 
+
+The HP stat, short for Hit Points, determines how much damage a Pokémon can receive before fainting.
+
+Pokemon Type Effectiveness:
+Normal type moves are weak against Rock and Steel type Pokémon, and ineffective against Ghost type Pokémon.
+Fighting type moves are super effective against Dark, Ice, Normal, Rock, and Steel type Pokémon, weak against Flying, Psychic, Poison, Bug, Fairy type Pokémon and ineffective against Ghost type Pokemon.
+Flying type moves are super effective against Bug, Fighting, and Grass type Pokémon, weak against Rock, Steel, Electric type Pokemon.
+Poison type moves are super effective against Fairy and Grass type Pokémon, weak against Poison, Ground, Rock, Ghost, and ineffective to Steel type Pokemon. 
+Ground type moves are super effective against Electric, Fire, Poison, Rock, and Steel type Pokémon, weak against Bug, and Grass type Pokémon, and ineffective against Flying type Pokemon.
+Rock type moves are super effective against Bug, Fire, Flying, and Ice type Pokémon, weak against Fighting, Ground, Steel type Pokemon.
+Bug type moves are super effective against Dark, Grass, and Psychic type Pokémon, weak against Flying, Fighting, Poison, Ghost, Steel, Fire, Fairy type Pokemon.
+Ghost type moves are super effective against Ghost and Psychic type Pokémon, weak against Dark type Pokemon, and ineffective against Normal type Pokemon.
+Steel type moves are super effective against Fairy, Ice, and Rock type Pokémon, weak against Steel, Fire, Water, and Electric type Pokemon.
+Fire type moves are super effective against Bug, Grass, Ice, and Steel type Pokémon, weak against Rock, Fire, Water, and Dragon type Pokemon.
+Water type moves are super effective against Fire, Ground, and Rock type Pokémon, weak against Water, Grass, and Dragon type Pokemon.
+Grass type moves are super effective against Ground, Rock, and Water type Pokémon, weak against Fire, Flying, Poison, Steel, Bug, Dragon, and Grass type Pokemon.
+Electric type moves are super effective against Flying and Water type Pokémon, weak against Grass, Electric, and Dragon type Pokemon, and ineffective against Ground type pokemon.
+Psychic type moves are super effective against Fighting and Poison type Pokémon, weak against Steel and Psychic type Pokemon, and ineffective against Dark type Pokemon.
+Ice type moves are super effective against Flying, Grass, Ground, and Dragon type Pokemon, weak against Steel, Fire, Water, and Ice type Pokemon.
+Dragon type moves are super effective against Dragon type pokemon, weak against Steel type Pokemon, and ineffective against Fairy type Pokemon.
+Dark type moves are super effective against Ghost and Psychic type Pokemon, and weak against Fighting, Dark, and Fairy type Pokemon.
+Fairy type moves are super effective against Fighting, Dragon, and Dark type Pokemon, and weak against Poison, Steel, and Fire type Pokemon.
